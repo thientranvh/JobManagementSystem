@@ -1,0 +1,14 @@
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataAccess\bin\Debug\netcoreapp2.2\JobManagementSystem.DataAccess.deps.json
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataAccess\bin\Debug\netcoreapp2.2\JobManagementSystem.DataAccess.runtimeconfig.json
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataAccess\bin\Debug\netcoreapp2.2\JobManagementSystem.DataAccess.runtimeconfig.dev.json
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataAccess\bin\Debug\netcoreapp2.2\JobManagementSystem.DataAccess.dll
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataAccess\bin\Debug\netcoreapp2.2\JobManagementSystem.DataAccess.pdb
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataAccess\bin\Debug\netcoreapp2.2\JobManagementSystem.Common.dll
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataAccess\bin\Debug\netcoreapp2.2\JobManagementSystem.Common.pdb
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataAccess\obj\Debug\netcoreapp2.2\JobManagementSystem.DataAccess.csprojAssemblyReference.cache
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataAccess\obj\Debug\netcoreapp2.2\JobManagementSystem.DataAccess.csproj.CoreCompileInputs.cache
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataAccess\obj\Debug\netcoreapp2.2\JobManagementSystem.DataAccess.AssemblyInfoInputs.cache
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataAccess\obj\Debug\netcoreapp2.2\JobManagementSystem.DataAccess.AssemblyInfo.cs
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataAccess\obj\Debug\netcoreapp2.2\JobManagementSystem.DataAccess.csproj.CopyComplete
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataAccess\obj\Debug\netcoreapp2.2\JobManagementSystem.DataAccess.dll
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataAccess\obj\Debug\netcoreapp2.2\JobManagementSystem.DataAccess.pdb

@@ -1,0 +1,70 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "E:\\Asp.net Core\\Projects\\Demo\\JobManagementSystem\\JobManagementSystem.Service\\JobManagementSystem.Service.csproj",
+    "projectName": "JobManagementSystem.Service",
+    "projectPath": "E:\\Asp.net Core\\Projects\\Demo\\JobManagementSystem\\JobManagementSystem.Service\\JobManagementSystem.Service.csproj",
+    "outputPath": "E:\\Asp.net Core\\Projects\\Demo\\JobManagementSystem\\JobManagementSystem.Service\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "E:\\Asp.net Core\\Projects\\Demo\\JobManagementSystem\\JobManagementSystem.DataAccess\\JobManagementSystem.DataAccess.csproj": {
+            "projectPath": "E:\\Asp.net Core\\Projects\\Demo\\JobManagementSystem\\JobManagementSystem.DataAccess\\JobManagementSystem.DataAccess.csproj"
+          },
+          "E:\\Asp.net Core\\Projects\\Demo\\JobManagementSystem\\JobManagementSystem.DataModel\\JobManagementSystem.DataModel.csproj": {
+            "projectPath": "E:\\Asp.net Core\\Projects\\Demo\\JobManagementSystem\\JobManagementSystem.DataModel\\JobManagementSystem.DataModel.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[7.0.0, )"
+        },
+        "MailKit": {
+          "target": "Package",
+          "version": "[2.3.0, )"
+        },
+        "Microsoft.AspNetCore.Http": {
+          "target": "Package",
+          "version": "[2.2.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Serilog": {
+          "target": "Package",
+          "version": "[2.8.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

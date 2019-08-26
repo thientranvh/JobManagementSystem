@@ -1,0 +1,14 @@
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataModel\obj\Debug\netcoreapp2.2\JobManagementSystem.DataModel.csprojAssemblyReference.cache
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataModel\obj\Debug\netcoreapp2.2\JobManagementSystem.DataModel.csproj.CoreCompileInputs.cache
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataModel\obj\Debug\netcoreapp2.2\JobManagementSystem.DataModel.AssemblyInfoInputs.cache
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataModel\obj\Debug\netcoreapp2.2\JobManagementSystem.DataModel.AssemblyInfo.cs
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataModel\bin\Debug\netcoreapp2.2\JobManagementSystem.DataModel.deps.json
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataModel\bin\Debug\netcoreapp2.2\JobManagementSystem.DataModel.dll
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataModel\bin\Debug\netcoreapp2.2\JobManagementSystem.Common.dll
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataModel\bin\Debug\netcoreapp2.2\JobManagementSystem.DataAccess.dll
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataModel\bin\Debug\netcoreapp2.2\JobManagementSystem.DataAccess.pdb
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataModel\bin\Debug\netcoreapp2.2\JobManagementSystem.Common.pdb
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataModel\obj\Debug\netcoreapp2.2\JobManagementSystem.DataModel.csproj.CopyComplete
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataModel\bin\Debug\netcoreapp2.2\JobManagementSystem.DataModel.pdb
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataModel\obj\Debug\netcoreapp2.2\JobManagementSystem.DataModel.dll
+E:\Asp.net Core\Projects\Demo\JobManagementSystem\JobManagementSystem.DataModel\obj\Debug\netcoreapp2.2\JobManagementSystem.DataModel.pdb
